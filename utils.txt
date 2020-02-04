@@ -2,6 +2,5 @@ let a=1;
 let b=13;
 [a,b]=[b,a];
 console.log(a,b);
-<<<<<<< HEAD
 console.log('world’);
 console.log("哈哈哈");
